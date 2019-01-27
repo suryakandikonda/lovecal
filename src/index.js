@@ -56,7 +56,7 @@ class FormInp extends React.Component
     
             var nickrandomnumber = Math.floor((Math.random() * nicknames.length - 1) + 1);
 
-            const days = ["Every Day is Lucky for you","Sunday","Monday","Tueday","Wednesday","Thursday","Friday","Saturday","Every day is lucky for you.. Can Propose today.. Haha","Today"];
+            const days = ["Every Day is Lucky for you","Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Every day is lucky for you.. Can Propose today.. Haha","Today"];
             var dayrandomnumber = Math.floor((Math.random() * days.length-1) + 1);
 
             const crushnames = ["A","B","D","G","H","J","K","L","M","N","P","R","S","T","V","Y"];
@@ -107,7 +107,7 @@ class FormInp extends React.Component
                     <td>{crushno[crushnorandomnumber]}</td>
                 </tr>
                 <tr>
-                    <th scope="row">How much you love your Crush:</th>
+                    <th scope="row">How much your Crush loves you?:</th>
                     <td>{crushpercen[crushpercenrandomnumber]}</td>
                 </tr>
                     
