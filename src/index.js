@@ -107,7 +107,7 @@ class FormInp extends React.Component
                     <td>{crushno[crushnorandomnumber]}</td>
                 </tr>
                 <tr>
-                    <th scope="row">How much your Crush loves you?:</th>
+                    <th scope="row">How much your Crush loves you:</th>
                     <td>{crushpercen[crushpercenrandomnumber]}</td>
                 </tr>
                     
