@@ -1,7 +1,7 @@
 {
   "main.css": "/lovecal/static/css/main.7370e1d7.chunk.css",
-  "main.js": "/lovecal/static/js/main.df211eb5.chunk.js",
-  "main.js.map": "/lovecal/static/js/main.df211eb5.chunk.js.map",
+  "main.js": "/lovecal/static/js/main.99799a2b.chunk.js",
+  "main.js.map": "/lovecal/static/js/main.99799a2b.chunk.js.map",
   "static/js/1.5fb161e1.chunk.js": "/lovecal/static/js/1.5fb161e1.chunk.js",
   "static/js/1.5fb161e1.chunk.js.map": "/lovecal/static/js/1.5fb161e1.chunk.js.map",
   "runtime~main.js": "/lovecal/static/js/runtime~main.ca9ae708.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/lovecal/static/media/logo.5d5d9eef.svg",
   "static/css/main.7370e1d7.chunk.css.map": "/lovecal/static/css/main.7370e1d7.chunk.css.map",
   "index.html": "/lovecal/index.html",
-  "precache-manifest.aa40e72ae7570a5b01699c3385099770.js": "/lovecal/precache-manifest.aa40e72ae7570a5b01699c3385099770.js",
+  "precache-manifest.93bf50c24f4130f18337f64d7dc9d59d.js": "/lovecal/precache-manifest.93bf50c24f4130f18337f64d7dc9d59d.js",
   "service-worker.js": "/lovecal/service-worker.js"
 }
